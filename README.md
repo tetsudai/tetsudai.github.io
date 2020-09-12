@@ -1,7 +1,5 @@
 # helping online communities grow
-## welcome to tetsudai
-
-*Last updated: 12 September 2020*
+## tetsudai – a japanese word meaning 'helper'
 
 Hi! My name is Adrian, aka aidswidjaja, and I'm a 15yo boy from Sydney, Australia. I've done lots of things online, from just casually hanging out on internet forums, YouTube, Discord and reddit, particularly in the technology, anime and gaming communities, but in recent times I've also taken up more active positions. I've been on Discord's online peer support communities since mid 2019, and in my tenure have been working with server owners, either through my initial role as a very active supporter, or towards where I am now, where I do what I can to help out.
 
@@ -41,3 +39,6 @@ tetusdai – a japanese word meaning 'helper'
 It's not really anything - apart from being a GitHub organization and a internet handle I use when referring to any projects I work on in the interests of the wider Internet. If you're interested in making the Internet a better place too, you can call yourself part of the tetsudai project too, I guess!
 
 Overall, I hope this gives you a good idea of tetsudai and what I envision my future online to be. If you have any questions/enquiries/whatevers you want to talk about, hit me up on Discord (aidswidjaja#2805), Reddit ([u/airswidjaja](https://reddit.com/u/airswidjaja) or any of my other contact methods listed at my personal website, [aidswidjaja.github.io](https://aidswidjaja.github.io). My PMs are always open, so feel free to say hi!
+
+
+*Last updated 12 September 2020*
