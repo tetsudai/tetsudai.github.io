@@ -38,7 +38,7 @@ tetusdai – a japanese word meaning 'helper'
 
 It's not really anything - apart from being a GitHub organization and a internet handle I use when referring to any projects I work on in the interests of the wider Internet. If you're interested in making the Internet a better place too, you can call yourself part of the tetsudai project too, I guess!
 
-Overall, I hope this gives you a good idea of tetsudai and what I envision my future online to be. If you have any questions/enquiries/whatevers you want to talk about, hit me up on Discord (aidswidjaja#2805), Reddit ([u/airswidjaja](https://reddit.com/u/airswidjaja) or any of my other contact methods listed at my personal website, [aidswidjaja.github.io](https://aidswidjaja.github.io). My PMs are always open, so feel free to say hi!
+Overall, I hope this gives you a good idea of tetsudai and what I envision my future online to be. If you have any questions/enquiries/whatevers you want to talk about, hit me up on Discord (aidswidjaja#2805), Reddit ([u/airswidjaja](https://reddit.com/u/airswidjaja)) or any of my other contact methods listed at my personal website, [aidswidjaja.github.io](https://aidswidjaja.github.io). My PMs are always open, so feel free to say hi!
 
 
 *Last updated 12 September 2020*
